@@ -1,0 +1,111 @@
+[
+      {
+        "id":1,
+        "name":"Tiktok",
+        "inventor":"Zhang Yiming",
+        "launchedYear":2016,
+        "download":"850 million",
+        "logo":"https://purepng.com/public/uploads/large/tik-tok-logo-6fh.png",
+        "annualRevenue":"34.3billion"
+      },
+      {
+        "id":2,
+        "name":"WhatsApp",
+        "inventor":"Jan Koum",
+        "launchedYear":2009,
+        "download":"600 million",
+        "logo":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/766px-WhatsApp.svg.png",
+        "annualRevenue":"5.5billion"
+      },
+      {
+        "id":3,
+        "name":"Facebook",
+        "inventor":"Mark Juckerberg",
+        "launchedYear":2004,
+        "download":"540 million",
+        "logo":"https://static.xx.fbcdn.net/rsrc.php/v3/yK/r/BHkEd6znUYJ.png",
+        "annualRevenue":"85.97billion"
+      },
+      {
+        "id":4,
+        "name":"Instagram",
+        "inventor":"Kevin Systrom",
+        "launchedYear":2010,
+        "download":"503 million",
+        "logo":"https://nveloop.com/wp-content/uploads/2021/02/instagram.jpg",
+        "annualRevenue":"30billion"
+      },
+      {
+        "id":5,
+        "name":"Zoom",
+        "inventor":"Eric Yuan",
+        "launchedYear":2011,
+        "download":"447 million",
+        "logo":"https://images.news18.com/ibnlive/uploads/2020/04/zoom.jpg",
+        "annualRevenue":"2.6 billion"
+      },
+      {
+        "id":6,
+        "name":"Messenger",
+        "inventor":"Mark Zuckerberg",
+        "launchedYear":2011,
+        "download":"404 million",
+        "logo":"https://play-lh.googleusercontent.com/ldcQMpP7OaVmglCF6kGas9cY_K0PsJzSSosx2saw9KF1m3RHaEXpH_9mwBWaYnkmctk",
+        "annualRevenue":"14.5 billion"
+      },
+      {
+        "id":7,
+        "name":"Snapchat",
+        "inventor":"Evan Spiegel",
+        "launchedYear":2011,
+        "download":"281 million",
+        "logo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQG3VeYQPpXyVi6aFJRbaAL4a13mqvPssgbBDyXwWcROg-hDRZd_5Royxci1aDgv9C3wKY&usqp=CAU",
+        "annualRevenue":"2.5 billion"
+      },
+      {
+        "id":8,
+        "name":"Telegram",
+        "inventor":"Pavel Durov",
+        "launchedYear":2013,
+        "download":"256 million",
+        "logo":"https://play-lh.googleusercontent.com/ZU9cSsyIJZo6Oy7HTHiEPwZg0m2Crep-d5ZrfajqtsH-qgUXSqKpNA2FpPDTn-7qA5Q",
+        "annualRevenue":"33.5 million"
+      },
+      {
+        "id":9,
+        "name":"Google Meet",
+        "inventor":"Sundar Pichai",
+        "launchedYear":2017,
+        "download":"254 million",
+        "logo":"https://www.logo.wine/a/logo/Google_Meet/Google_Meet-Logo.wine.svg",
+        "annualRevenue":"61.7 billion"
+      },
+      {
+        "id":10,
+        "name":"Netflix",
+        "inventor":"Reed Hastings",
+        "launchedYear":2007,
+        "download":"223 million",
+        "logo":"https://play-lh.googleusercontent.com/384jx3OL4_tqtCGZrfIB6Q5TehM0Q7TLYFsenRPfeT8f-3vicWH2BYbvaEAneaPFMMM",
+        "annualRevenue":"25 billion"
+      },
+      {
+        "id":11,
+        "name":"Youtube",
+        "inventor":"Steve Chen",
+        "launchedYear":2005,
+        "download":"450 million",
+        "logo":"https://brandlogos.net/wp-content/uploads/2020/03/YouTube-icon-SVG-512x512.png",
+        "annualRevenue":"19.77 billion"
+      },
+      {
+        "id":12,
+        "name":"LinkedIn",
+        "inventor":"Reid Hoffman",
+        "launchedYear":2002,
+        "download":"150 million",
+        "logo":"https://i.pinimg.com/originals/4a/8d/44/4a8d44d6f63a89d7de81add721e7cf22.png",
+        "annualRevenue":"8.05 billion"
+      }
+    ]
+  
